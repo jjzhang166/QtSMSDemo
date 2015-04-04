@@ -1,0 +1,20 @@
+<Sms>
+    <Man Number="12345678342">
+        <Content>我</Content>
+        <Content>完全</Content>
+    </Man>
+    <Man Number="12345678998">
+        <Content>垃圾</Content>
+    </Man>
+    <Man Number="565">
+        <Content>公安部反洗钱中心通知您，您的账号近日有大额异动，已经处于监控之下。</Content>
+        <Content>测试一下</Content>
+    </Man>
+    <Man Number="12345678912">
+        <Content>32</Content>
+        <Content>2</Content>
+        <Content>e</Content>
+        <Content>南阳理工学院</Content>
+        <Content>er</Content>
+    </Man>
+</Sms>
